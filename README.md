@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djordjevicN&langs_count=8&layout=compact)](https://github.com/djordjevicN/github-readme-stats)
 
-
-<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=djordjevicN&langs_count=8&layout=compact)](https://github.com/djordjevicN/github-readme-stats" />
-
+<iframe src="https://giphy.com/embed/3oEhmSWi2G1fOCjZWU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-80s-3oEhmSWi2G1fOCjZWU">via GIPHY</a></p>
