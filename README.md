@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djordjevicN&langs_count=8&layout=compact)](https://github.com/djordjevicN/github-readme-stats)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
