@@ -1,4 +1,4 @@
-### Hi there i'm Nikola 👋
+### Hi there I'm Nikola 👋
 <!--
 **DjordjevicN/DjordjevicN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
