@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djordjevicN&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djordjevicN&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djordjevicN&theme=radical)
 
